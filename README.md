@@ -33,3 +33,5 @@
   <a href="https://www.viniciussantos.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-470FA3?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:vinicius.ssantos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
+
+<!-- <img alt="Snake" src="https://raw.githubusercontent.com/vinicius-santos-dev/vinicius-santos-dev/output/github-contribution-grid-snake.svg" /> -->
