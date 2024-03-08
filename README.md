@@ -13,7 +13,7 @@
 
 <div>
   <a href="https://github.com/vinicius-santos-dev?tab=repositories" target="_blank">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-santos-dev&layout=compact&langs_count=8&card_width=320&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,470FA3,9C52FF" />
+  <img height=200 align="center" src="https://github-readme-stats-vinicius-santos.vercel.app/api/top-langs?username=vinicius-santos-dev&layout=compact&langs_count=8&card_width=320&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,470FA3,9C52FF" />
 </a>
 </div>
 
