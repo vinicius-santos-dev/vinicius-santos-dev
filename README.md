@@ -1,13 +1,13 @@
-## Olá, eu sou o Vinícius Santos!
+## Hi, I'm Vinícius Santos!
 
 <div>
   <p>
-    Desenvolvedor Front-end Pleno Angular. <br />
-    Estou aprendendo React. <br />
+    Front-end Angular Developer. <br />
+    I'm learning React. <br />
   </p>
 
-  <p>Sou graduado em Sistemas de Informação, com 4 anos de experiência em criação de sites. <br /> 
-    Me dedico a construir interfaces responsivas e intuitivas, sempre buscando a melhor experiência para o usuário.
+  <p>I have a bachelor's degree in Information Systems, with 4 years of experience in website development. <br /> 
+    I believe in the importance of usability and accessibility, so I am dedicated to building responsive and intuitive interfaces, always focused on the best user experience.
   </p>
 </div>
 
@@ -24,6 +24,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div>
 
 ##
