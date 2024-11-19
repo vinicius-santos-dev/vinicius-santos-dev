@@ -36,5 +36,5 @@
   <a href="mailto:vinicius.ssantos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=vinicius-santos-dev&style=pixel)
+<img src="https://komarev.com/ghpvc/?username=vinicius-santos-dev&color=470FA3&style=pixel" alt="Profile views" />
 <!-- <img alt="Snake" src="https://raw.githubusercontent.com/vinicius-santos-dev/vinicius-santos-dev/output/github-contribution-grid-snake.svg" /> -->
