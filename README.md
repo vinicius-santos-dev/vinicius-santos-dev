@@ -1,13 +1,9 @@
-## Hi, I'm Vinícius Santos!
+## Hello, my name is Vinícius.
 
 <div>
-  <p>
-    Front-end Angular Developer. <br />
-    I'm learning React. <br />
-  </p>
-
-  <p>I have a bachelor's degree in Information Systems, with 4 years of experience in website development. <br /> 
-    I believe in the importance of usability and accessibility, so I am dedicated to building responsive and intuitive interfaces, always focused on the best user experience.
+  <p>Front-end Developer with over 4 years of experience in creating modern and high-performance web interfaces. <br /> <br />
+     Bachelor's degree in Information Systems, with a solid foundation in HTML5, CSS3, JavaScript, and frameworks such as React and Angular. <br /> <br />
+     Experience in developing responsive websites and web applications focused on usability, accessibility, and SEO.
   </p>
 </div>
 
