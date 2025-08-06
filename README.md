@@ -1,9 +1,11 @@
 ## Hello, my name is Vinícius.
 
 <div>
-  <p>Front-end Developer with over 4 years of experience in creating modern and high-performance web interfaces. <br /> <br />
-     Bachelor's degree in Information Systems, with a solid foundation in HTML5, CSS3, JavaScript, and frameworks such as React and Angular. <br /> <br />
-     Experience in developing responsive websites and web applications focused on usability, accessibility, and SEO.
+  <p>
+Front-end developer with over 4 years of experience creating responsive, accessible, and
+performance-focused web interfaces. I have a degree in Information Systems and a solid
+foundation in HTML5, CSS3, and JavaScript, in addition to practical experience with frameworks
+like React and Angular. I value attention to detail, usability, and SEO best practices.
   </p>
 </div>
 
