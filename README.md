@@ -1,11 +1,23 @@
-## Hello, my name is Vinícius.
+## Hello, I'm Vinícius.
 
 <div>
   <p>
-Front-end developer with over 4 years of experience creating responsive, accessible, and
-performance-focused web interfaces. I have a degree in Information Systems and a solid
-foundation in HTML5, CSS3, and JavaScript, in addition to practical experience with frameworks
-like React and Angular. I value attention to detail, usability, and SEO best practices.
+Front-end developer with 5+ years of experience building scalable, responsive, and accessible web applications.
+<br />
+    
+Currently working with Angular in a microfrontend architecture, contributing to enterprise applications in an international environment. Experienced in developing modular applications, integrating REST APIs, and applying modern front-end practices focused on performance, maintainability, and usability.
+<br />
+
+Beyond Angular, I also build personal projects with React and Next.js, exploring different front-end ecosystems and user experiences.
+<br />
+
+Main stack:
+    <br />
+    • Angular • React • Next.js • TypeScript • TailwindCSS
+    <br />
+    • Microfrontends (Module Federation)
+    <br />
+    • RxJS • Signals • Redux
   </p>
 </div>
 
